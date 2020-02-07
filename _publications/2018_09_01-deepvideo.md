@@ -6,5 +6,5 @@ excerpt: 'The comparison of observed brain activity with the statistics generate
 date: 2018-09-01
 venue: 'CCN 2018 - Conference on Cognitive Computational Neuroscience'
 paperurl: 'https://arxiv.org/pdf/1809.02440.pdf'
-citation: 'H Richard, A Pinho, B Thirion, G Charpiat - arXiv preprint arXiv:1809.02440, 2018'
+citation: 'H Richard, A Pinho, B Thirion, G Charpiat - Conference on Cognitive Computational Neuroscience, 2018'
 ---
