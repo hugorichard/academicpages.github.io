@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Inria Saclay in the [Parietal Team](https://team.inria.fr/parietal/)
+I am a PhD candidate at Inria Saclay in the [Parietal Team](https://team.inria.fr/parietal/).
+
 My research interests touch several areas of machine learning, high-dimensional statistics, statistical modeling with application to anatomical and functional brain mapping.
 
 Publications
