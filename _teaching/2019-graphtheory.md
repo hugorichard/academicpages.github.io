@@ -1,20 +1,29 @@
 ---
-title: "Teaching experience 2"
+title: "An introduction to graphs, formal languages and automata"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2019-graphtheory
+venue: "IUT Orsay"
+date: 2019-02-01
+location: "Orsay, France"
 ---
+This course covers some fundamental concepts of graph theory and also introduces automata and formal languages.
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Graph Theory
 ======
+- Generality: oriented and un-oriented graphs, valued graphs, sub-graphs, degree, chain, path, connexity, strong connexity
+- Graph traversal: Depth-first search, Breadth-first search
+- Shortest path: Dijkstra algorithm
+- Maximal flow problem: Flow, Cut, Maximum flow, Minimal cut, Ford-Fulkerson algorithm
 
-Heading 2
+Formal Languages
 ======
+- Alphabet and words
+- Regular language, regular expressions
 
-Heading 3
+Automata
 ======
+- Synchronus and Asynchronus automata
+- Determinist automata
+- Automata and regular languages
+- Unambiguous finite automata
