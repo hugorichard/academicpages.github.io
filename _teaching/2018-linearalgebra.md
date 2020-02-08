@@ -21,6 +21,7 @@ Matrix calculus
 Linear systems
 ======
 - Gauss algorithm
+- Cramer's rule for small linear systems
 
 Vector spaces
 ======
