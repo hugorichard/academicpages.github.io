@@ -29,7 +29,13 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Software
+======
+  <ul>{% for post in site.software %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Extracurricular Activity
 ======
 * Pianist, see also our [rock band](https://www.youtube.com/watch?v=PTKhJzpqqiQ)
