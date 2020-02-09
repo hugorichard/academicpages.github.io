@@ -1,17 +1,13 @@
 ---
-title: "Introduction to Linear Algebra"
+title: "Introduction to Probability Theory"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-linearalgebra
+permalink: /teaching/2020-probtheory
 venue: "IUT Orsay"
-date: 2018-09-01
+date: 2020-09-01
 location: "Orsay, France"
 ---
-An introduction to linear algebra concluding with an introduction to abstract vector spaces.
-
-The principal topics are vectors, systems of linear equations, matrices. The important notions of linear independence, span and bases are introduced.
-
-This course is both a preparation for the practical use of vectors, matrices and systems of equations and also lays the groundwork for a more abstract, pure-mathematical treatment of vector spaces.
+An introduction to probability theory concluding with an introduction to statistical tests.
 
 Matrix calculus
 ======

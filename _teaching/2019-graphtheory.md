@@ -7,7 +7,7 @@ venue: "IUT Orsay"
 date: 2019-02-01
 location: "Orsay, France"
 ---
-This course covers some fundamental concepts of graph theory and also introduces automata and formal languages.
+An introduction to graph theory concluding with an introduction to automata and formal languages.
 
 Graph Theory
 ======
