@@ -26,7 +26,7 @@ Discrete Random Variables
 - Examples: Discrete Uniform, Bernoulli, Binomial, Geometric
 - Independent Random variables
 
-Jointly Distributed Discrete Random Variables
+Jointly Distributed Random Variables
 ======
 - Marginal distributions
 - Conditional distributions
@@ -43,8 +43,8 @@ Continuous Random Variables
 
 Convergence
 =====
-- Convergence in law
-- Central limit theorem
+- Convergence in law, Convergence in probability
+- Central limit theorem, Weak law of large numbers
 - Poisson distribution
 - Approximation of Binomial distribution by Poisson or Gaussian distributions
 
@@ -53,4 +53,3 @@ Statistical tests
 - Principles of statistical tests
 - Decision rule, risk, power, p-value
 - Test comparisons
-
