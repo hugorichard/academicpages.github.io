@@ -9,19 +9,48 @@ location: "Orsay, France"
 ---
 An introduction to probability theory concluding with an introduction to statistical tests.
 
-Matrix calculus
+Foundations of Probability
 ======
-- Operations on matrices
-- Determinant
+- Probability Axioms
+- Events
+- Mutually Exclusive Events
+- Law of Total Probability
+- Conditional Probability
+- Bayes’ Rule
+- Independent Events
 
-Linear systems
+Discrete Random Variables
 ======
-- Gauss algorithm
-- Cramer's rule for small linear systems
+- Definition of a Random Variable
+- Cumulative Distribution Functions
+- Examples: Discrete Uniform, Bernoulli, Binomial, Geometric
+- Independent Random variables
 
-Vector spaces
+Jointly Distributed Discrete Random Variables
 ======
-- Linear independence
-- Span
-- Bases and dimension
-- Bases change
+- Marginal distributions
+- Conditional distributions
+- Sum and product of Random Variables
+- Expectation and variance of Random Variables
+- Correlation
+
+Continuous Random Variables
+=======
+- Probability Density Functions
+- Examples: Continuous Uniform, Gaussian
+- Function of random variables
+- Change of variables
+
+Convergence
+=====
+- Convergence in law
+- Central limit theorem
+- Poisson distribution
+- Approximation of Binomial distribution by Poisson or Gaussian distributions
+
+Statistical tests
+====
+- Principles of statistical tests
+- Decision rule, risk, power, p-value
+- Test comparisons
+
