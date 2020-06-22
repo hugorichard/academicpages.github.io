@@ -1,6 +1,6 @@
 ---
 title: "FastSRM"
-excerpt: "Identifiable version of FastSRM as a standalone package<br/><img src='/images/fastsrm.png', width='100%'>"
+excerpt: "Identifiable version of FastSRM as a standalone package<br/><img src='/images/fastsrm.png', width=100>"
 collection: software
 ---
 The shared response model provides a simple but effective framework to 
