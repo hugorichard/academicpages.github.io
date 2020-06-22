@@ -12,7 +12,7 @@ computational power, which limits its use in practice.
 
 The FastSRM algorithm provides considerable speed-up in time and memory usage, hence it allows easy and fast large-scale analysis of naturalistic-stimulus fMRI data. 
 
-FastSRM is freely available: https://github.com/hugorichard/FastSRM
+FastSRM is freely available: [https://github.com/hugorichard/FastSRM](https://github.com/hugorichard/FastSRM).
 Vanillay SRM is not identifiable. In the last release of FastSRM, an identifiable version of FastSRM is available.
 
 Publications:
