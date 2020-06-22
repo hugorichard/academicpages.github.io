@@ -4,4 +4,4 @@ excerpt: "Added FastSRM to the Brain Imaging Analysis Kit <br/><img src='/images
 collection: software
 ---
 
-Pull request referenced in [[https://github.com/brainiak/brainiak/pull/421]]
+Pull request referenced in https://github.com/brainiak/brainiak/pull/421
