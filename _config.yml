@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5KaKAOgAAAAJ&hl=fr&authuser=1"
-  email            : "hugo.richard [AT] inria.fr"
+  email            : "research.hugo.richard[AT]gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -221,6 +221,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _publications
   - scope:
       path: ""
@@ -247,15 +255,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _software
-  - scope:
-      path: ""
-      type: software
-    values:
-      layout: software
-      author_profile: true
-      share: true
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
