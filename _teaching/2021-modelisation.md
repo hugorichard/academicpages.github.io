@@ -1,9 +1,9 @@
 ---
 title: "Modelisation"
 collection: teaching
-type: "undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/2021-modelisation
-venue: "iut orsay"
+venue: "IUT Orsay"
 date: 2021-09-01
 location: "orsay, france"
 ---
