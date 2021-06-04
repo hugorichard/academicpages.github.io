@@ -1,6 +1,6 @@
 ---
-title: "FastSRM in Brainiak"
-excerpt: "Added FastSRM to the Brain Imaging Analysis Kit <br/><img src='/images/brainiak.png'>"
+title: "Brainiak"
+excerpt: "Pull request in Brain Imaging Analysis Kit <br/><img src='/images/brainiak.png'>"
 collection: software
 ---
 

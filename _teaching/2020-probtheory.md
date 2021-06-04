@@ -1,7 +1,7 @@
 ---
 title: "Introduction to probability theory"
 collection: teaching
-type: "undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/2020-probtheory
 venue: "IUT Orsay"
 date: 2020-09-01

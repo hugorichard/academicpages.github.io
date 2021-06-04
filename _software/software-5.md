@@ -1,6 +1,6 @@
 ---
 title: "Scikit-Learn"
-excerpt: "Pull request in <br/><img src='/images/scikit-learn.png'>"
+excerpt: "Pull request in <br/><img src='/images/mvlearn.png'>"
 collection: software
 ---
 Use of custom covariance estimators in Linear discriminant analysis.
