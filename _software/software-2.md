@@ -1,6 +1,6 @@
 ---
 title: "FastSRM"
-excerpt: "<img width="200" src='/images/fastsrm.png'>"
+excerpt: "<img width='200' src='/images/fastsrm.png'>"
 collection: software
 ---
 The shared response model provides a simple but effective framework to 

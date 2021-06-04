@@ -1,6 +1,6 @@
 ---
 title: "Brainiak"
-excerpt: "Brainiak <img width="200" src='/images/brainiak.png'>"
+excerpt: "<img width='200' src='/images/brainiak.png'>"
 collection: software
 ---
 
