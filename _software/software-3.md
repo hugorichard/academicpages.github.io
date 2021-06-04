@@ -1,6 +1,6 @@
 ---
 title: "MultiView ICA"
-excerpt: "Implemenation of multiview ICA <br/><img src='/images/mvica.jpeg'>"
+excerpt: "<img width="200" src='/images/mvica.jpeg'>"
 collection: software
 ---
 Introducing MultiView ICA: a novel ICA model for group studies. 

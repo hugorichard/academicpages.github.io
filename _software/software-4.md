@@ -1,6 +1,6 @@
 ---
 title: "Mvlearn"
-excerpt: "Pull request in <br/><img src='/images/scikit-learn.png'>"
+excerpt: "<img width="200" src='/images/scikit-learn.png'>"
 collection: software
 ---
 
