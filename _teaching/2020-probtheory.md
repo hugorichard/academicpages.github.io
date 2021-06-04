@@ -1,55 +1,55 @@
 ---
-title: "Introduction to Probability Theory"
+title: "introduction to probability theory"
 collection: teaching
-type: "Undergraduate course"
+type: "undergraduate course"
 permalink: /teaching/2020-probtheory
-venue: "IUT Orsay"
+venue: "iut orsay"
 date: 2020-09-01
-location: "Orsay, France"
+location: "orsay, france"
 ---
-An introduction to probability theory concluding with an introduction to statistical tests.
+an introduction to probability theory concluding with an introduction to statistical tests.
 
-Foundations of Probability
+foundations of probability
 ======
-- Probability Axioms
-- Events
-- Mutually Exclusive Events
-- Law of Total Probability
-- Conditional Probability
-- Bayes’ Rule
-- Independent Events
+- probability axioms
+- events
+- mutually exclusive events
+- law of total probability
+- conditional probability
+- bayes’ rule
+- independent events
 
-Discrete Random Variables
+discrete random variables
 ======
-- Definition of a Random Variable
-- Cumulative Distribution Functions
-- Examples: Discrete Uniform, Bernoulli, Binomial, Geometric
-- Independent Random variables
+- definition of a random variable
+- cumulative distribution functions
+- examples: discrete uniform, bernoulli, binomial, geometric
+- independent random variables
 
-Jointly Distributed Random Variables
+jointly distributed random variables
 ======
-- Marginal distributions
-- Conditional distributions
-- Sum and product of Random Variables
-- Expectation and variance of Random Variables
-- Correlation
+- marginal distributions
+- conditional distributions
+- sum and product of random variables
+- expectation and variance of random variables
+- correlation
 
-Continuous Random Variables
+continuous random variables
 =======
-- Probability Density Functions
-- Examples: Continuous Uniform, Gaussian
-- Function of random variables
-- Change of variables
+- probability density functions
+- examples: continuous uniform, gaussian
+- function of random variables
+- change of variables
 
-Convergence
+convergence
 =====
-- Convergence in law, Convergence in probability
-- Central limit theorem, Weak law of large numbers
-- Poisson distribution
-- Approximation of Binomial distribution by Poisson or Gaussian distributions
+- convergence in law, convergence in probability
+- central limit theorem, weak law of large numbers
+- poisson distribution
+- approximation of binomial distribution by poisson or gaussian distributions
 
-Statistical tests
+statistical tests
 ====
-- Principles of statistical tests
-- Decision rule, risk, power, p-value
-- Test comparisons
+- principles of statistical tests
+- decision rule, risk, power, p-value
+- test comparisons
