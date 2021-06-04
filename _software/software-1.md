@@ -4,4 +4,4 @@ excerpt: "Pull request in Brain Imaging Analysis Kit <br/><img src='/images/brai
 collection: software
 ---
 
-Pull request referenced in [https://github.com/brainiak/brainiak/pull/421](https://github.com/brainiak/brainiak/pull/421)
+- [Add FastSRM](https://github.com/brainiak/brainiak/pull/421)
